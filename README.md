@@ -1,0 +1,2 @@
+# Devise Confirmable + Mailgun
+
